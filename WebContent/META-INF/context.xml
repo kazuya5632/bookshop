@@ -1,0 +1,4 @@
+<Context path="/bookshop">
+	<ResourceLink name="jdbc/bookshop" global="bookshop"
+		type="javax.sql.DataSource" />
+</Context>
